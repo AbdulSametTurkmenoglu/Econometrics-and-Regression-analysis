@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 15 14:13:56 2024
-
-@author: samet
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 15 13:35:21 2024
-
-@author: samet
-"""
-
 import numpy as np
 
 Y_str = input("Lütfen Y dizisini girin: ")
